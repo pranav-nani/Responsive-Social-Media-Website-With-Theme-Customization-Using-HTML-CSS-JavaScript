@@ -1,6 +1,6 @@
 # Responsive-Social-Media-Website-With-Theme-Customization-Using-HTML-CSS-JavaScript
 
-This site was built using GitHub Pages, you can visit this website here [Link](https://pages.github.com/).
+This site was built using GitHub Pages, you can visit this website here [Link](https://pranav-nani.github.io/Responsive-Social-Media-Website-With-Theme-Customization-Using-HTML-CSS-JavaScript/).
 
 
 The project "Responsive Social Media Website With Theme Customization" is a web application built using HTML, CSS, and JavaScript. It aims to create a social media-like website with responsive design and the ability to customize the theme.
