@@ -1,4 +1,4 @@
-# Responsive-Social-Media-Website-With-Theme-Customization-Using-HTML-CSS-JavaScript
+# Responsive Social Media Website With Theme Customization Using HTML CSS JavaScript
 
 This site was built using GitHub Pages, you can visit this website here [Link](https://pranav-nani.github.io/Responsive-Social-Media-Website-With-Theme-Customization-Using-HTML-CSS-JavaScript/).
 
